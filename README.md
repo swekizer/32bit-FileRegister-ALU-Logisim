@@ -22,7 +22,7 @@ To run this project, you need to have [Logisim](http://www.cburch.com/logisim/) 
 1.To understand how to run the project refer to this video.
 
 ## Where to use
-1. Submmited as a minor project for Computer Architecture and Organization course in uni. 
+1.Submmited as a minor project for Computer Architecture and Organization course in uni. 
 
 ## License
 This project is licensed under the MIT License.
