@@ -19,10 +19,10 @@ To run this project, you need to have [Logisim](http://www.cburch.com/logisim/) 
 4. Refer to word document uploaded to understand the basics of the project.
 
 ## Video
-1. To understand how to run the project refer to this video.
+To understand how to run the project refer to this video.
 
 ## Where to use
-1. Submmited as a minor project for Computer Architecture and Organization course in uni. 
+Submmited as a minor project for Computer Architecture and Organization course in uni. 
 
 ## License
 This project is licensed under the MIT License.
