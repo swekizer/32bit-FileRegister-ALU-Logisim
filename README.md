@@ -24,5 +24,8 @@ To understand how to run the project refer to this video.
 ## Where to use
 Submmited as a minor project for Computer Architecture and Organization course in uni. 
 
+![image](https://github.com/swekizer/32bit-FileRegister-ALU-Logisim/assets/161512200/87b09211-d639-4ac1-9398-5be77d13de66)
+
+
 ## License
 This project is licensed under the MIT License.
