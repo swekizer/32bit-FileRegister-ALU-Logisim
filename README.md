@@ -4,6 +4,8 @@ A 32-bit file register with an Arithmetic Logic Unit (ALU) implemented using Log
 ## Overview
 This project implements a 32-bit file register with an Arithmetic Logic Unit (ALU) using Logisim. It is designed for educational purposes to demonstrate the functionality of a basic ALU and register file in digital logic design.
 
+![image](https://github.com/swekizer/32bit-FileRegister-ALU-Logisim/assets/161512200/87b09211-d639-4ac1-9398-5be77d13de66)
+
 ## Features
 - 32-bit register file
 - Basic ALU operations (addition, subtraction, etc.)
@@ -23,9 +25,6 @@ To understand how to run the project refer to this video.
 
 ## Where to use
 Submmited as a minor project for Computer Architecture and Organization course in uni. 
-
-![image](https://github.com/swekizer/32bit-FileRegister-ALU-Logisim/assets/161512200/87b09211-d639-4ac1-9398-5be77d13de66)
-
 
 ## License
 This project is licensed under the MIT License.
