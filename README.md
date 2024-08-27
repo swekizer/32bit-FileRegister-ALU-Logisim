@@ -15,7 +15,7 @@ This project implements a 32-bit file register with an Arithmetic Logic Unit (AL
 To run this project, you need to have [Logisim](http://www.cburch.com/logisim/) installed on your computer.
 
 ## How to Use
-1. Clone or download the repository.
+1. Clone the repository or download the .circ file.
 2. Open the `.circ` file in Logisim.
 3. Explore the register file and ALU functionality by simulating the circuits.
 4. Refer to word document uploaded to understand the basics of the project.
