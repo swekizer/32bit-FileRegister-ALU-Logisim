@@ -25,6 +25,3 @@ To understand how to run the project refer to this video.
 
 ## Where to use
 Submmited as a minor project for Computer Architecture and Organization course in uni. 
-
-## License
-This project is licensed under the MIT License.
